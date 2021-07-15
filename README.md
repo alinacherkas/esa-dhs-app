@@ -25,3 +25,5 @@ The dashboard uses data extracted from the [Spatial Data Repository](https://spa
 - Zimbabwe
 
 The application can be used for exploring the overall distribution of the indicators, their geographic variation as well as conduct basic spatial regression analysis.
+
+![Preview](www/preview.png)
