@@ -1,4 +1,4 @@
-# this module provides plotting function for the app
+# this script provides plotting functions for the app
 
 plot_map <- function(df.lambda){
   pal <- colorNumeric(palette = "YlOrRd", domain = NULL)
@@ -54,7 +54,7 @@ plot_scatterplot <- function(df.lambda){
             slot(name = "data") %>% 
             select(IndicatorValue) %>%
             rowid_to_column()
-          ) %>%
+    ) %>%
     drop_na()
   
   m <- lm(IndicatorValue ~ Lat, data = df.lambda)

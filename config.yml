@@ -1,0 +1,4 @@
+default:
+  app_version: "1.1"
+  dependency_dir: "./dependencies"
+  testing_mode: false

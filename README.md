@@ -27,3 +27,7 @@ The dashboard uses data extracted from the [Spatial Data Repository](https://spa
 The application can be used for exploring the overall distribution of the indicators, their geographic variation as well as conduct basic spatial regression analysis.
 
 ![Preview](www/preview.png)
+
+## Note
+
+Presently, the repository contains only the code and does not include the datasets required for the app to run.

@@ -1,0 +1,18 @@
+/* changing switch color */
+.bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-on, .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-on {
+  background: #d94b41;
+  color: #FFFFFF;
+}
+
+/* styling the footer */
+#app-footer {
+  color: black;
+  text-align: center;
+  position: absolute;
+  bottom: 0px;
+  left:50%;
+  margin-top: 0;
+  margin-left: -15px;
+  margin-right: -15px;
+  margin-bottom: 0;
+}
